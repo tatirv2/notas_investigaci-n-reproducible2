@@ -10,3 +10,12 @@ El término **reproductibilidad** (o _reproducibility_, en inglés) se refiere a
 
 Con el fin de resolver esta problemática, diferentes organizaciones, como el Comité Internacional de Publicaciones de Medicina o la Administración de Alimentos y Medicamentos de Estados Unidos (FDA), empezaron a publicar lineamientos para atacar los problemas derivados de una inadecuada documentación de los experimentos basados en ensayos aleatorios. De manera simultánea, se le dio más importancia a la calidad de los datos utilizados en las investigaciones. Así, por ejemplo, como se muestra en la figura 1, Mark Ziemann encontró en 2016 que un 20% de los artículos con archivos de datos suplementarios publicados en revistas científicas contenían errores en los nombres de los genes, debido a los parámetros de configuración de Microsoft Excel (Ziemann et al., 2016).
 
+Figura 1. Resultados de la revisión sistemática de archivos Excel suplementarios. Fuente: (Ziemann et al., 2016).
+Bibliografía
+
+Bezjak, S., Clyburne-Sherin, A., Conzett, P., Fernandes, P., Görögh, E., Helbig, K., Kramer, B., Labastida, I., Niemeyer, K., Psomopoulos, F., Ross-Hellauer, T., Schneider, R., Tennant, J., Verbakel, E., Brinken, H., & Heller, L. (2018). Open Science Training Handbook. Zenodo. https://doi.org/10.5281/ZENODO.1212496
+
+Claerbout, J. F. (1992). Earth Soundings Analysis: Processing Versus Inversion. Blackwell Science Inc.
+
+Ziemann, M., Eren, Y., & El-Osta, A. (2016). Gene name errors are widespread in the scientific literature. Genome Biology, 17(1), 177. https://doi.org/10.1186/s13059-016-1044-7
+
