@@ -1,2 +1,4 @@
-# notas_investigaci-n-reproducible2
-Notas de investigación
+# Notas sobre investigación reproducible y análisis de datos
+## Reproductibilidad 
+
+###### El término **reproductibilidad** (_reproducibility_, en inglés)
